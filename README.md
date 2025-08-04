@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra2-coder&label=Profile%20views&color=0e75b6&style=flat" alt="iqra2-coder" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS&JavaScript**
+- 🌱 I’m currently learning **HTML,CSS & JavaScript**
 
 - 📫 How to reach me **iqranawaz913@gmail.com**
 
